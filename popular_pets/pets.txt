@@ -1,0 +1,5 @@
+Pig 2
+Cow 1
+Dog 3
+Fowl 8
+Duck 4

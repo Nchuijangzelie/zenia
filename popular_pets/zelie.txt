@@ -1,0 +1,6 @@
+ashley 4
+zelie 10
+susan 3
+amin 2
+juluis 5
+faith 1
